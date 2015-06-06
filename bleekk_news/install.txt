@@ -1,0 +1,35 @@
+Xoops User müssen einen block-hack verwenden um die neue Blockposition "rightCenter" zu verwenden.
+
+Impresscms User müssen eine neue Blockposition erstellen, diese bitte "rightCenter" nennen. GANZ WICHTIG!
+
+Footer wird in der Administration (xoops/impresscms) geändert.
+
+
+Das bleekk-news Theme ist unter der CC Lizenz.
+Der Hinweis im Footer darf NICHT entfernt werden.
+
+
+Gegen eine Spende von 5€ darf der Hinweis im Footer entfernt werden.
+Paypal: eizo.mirza@gmail.com (bitte die Domain anführen)
+
+
+Bei Fragen bitte auf www.bleekk.com einen Kommentar schreiben. Es werden keine Fragen über Email beantwortet.
+
+
+ENGLISH:
+
+XOOPS: To use the new block position "rightCenter" you have to install a blockposition hack.
+
+IMPRESSCMS: Please create in the administration a new custom block position "rightCenter". IMPORTANT!
+
+You can change the footer of the theme over your xoops/impresscms administration.
+
+
+The bleekk-news theme is under the CC license.
+Do NOT remove the credits in the footer.
+
+Make a donation of 5€ or 7$ to remove the credits in the footer.
+Paypal: eizo.mirza@gmail.com (please send your domain name too).
+
+If you have any questions please write a comment on bleekk.com. I will not answer any questions over email.
+

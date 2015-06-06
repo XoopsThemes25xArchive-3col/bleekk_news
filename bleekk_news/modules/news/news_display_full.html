@@ -1,0 +1,16 @@
+<{include file='db:news_header.html'}>
+
+	<div align="<{$smarty.const._GLOBAL_RIGHT}>"><{$navbar}></div>
+
+	<!-- Start item loop -->
+	<{foreach item=item from=$items}>
+  	<{include file="db:news_singleitem.html" item=$item}>
+	<{/foreach}>
+	<!-- End item loop -->
+
+	<div align="<{$smarty.const._GLOBAL_RIGHT}>"><{$navbar}></div>
+	<{if $collapsable_heading == 1}>
+		</div>
+	<{/if}>
+
+<{include file='db:news_footer.html'}>

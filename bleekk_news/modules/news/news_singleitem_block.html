@@ -1,0 +1,22 @@
+<div class="item">
+  <div class="itemHead">
+	<span class="itemTitle"><{$item.titlelink}></span>	
+  </div>  	
+
+  <{if $block.display_whowhen_link}>
+    <div class="itemInfo">
+      <span class="itemPoster">
+    	<div class="news_item_head_who">
+		  <{$item.who_when}> (<{$item.counter}> <{$block.lang_reads}>)
+    	</div>
+      </span>
+ 	</div>
+  <{/if}>
+  
+  <div class="itemBody">
+  	<{if $item.image_path}>
+      <a href="<{$item.itemurl}>"><img class="news_item_image" src="<{$item.image_path}>" style="float:left;"  align="left" alt="<{$item.title}>" title="<{$item.title}>" /></a>
+    <{/if}>
+	<div class="itemText"><{$item.summary}></div>
+  </div>
+</div>
